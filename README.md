@@ -1,10 +1,10 @@
-# 🧮 FitCheck – IMC Calculator
+# 🧮 FitCheck – BMI Calculator
 
 **FitCheck** is a Flutter Web app that calculates Body Mass Index (BMI) based on a user's weight, age, and gender. Designed with a logic-based approach, it features a responsive UI and is deployed on GitHub and Vercel.
 ---
 ## 🚀 Features
 
-- ⚖️ Automatic IMC calculation
+- ⚖️ Automatic BMI calculation
 - 👤 Data entry: weight, age, and gender
 - 📊 Result display with interpretation
 - 🎨 Clear and user-friendly interface
